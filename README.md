@@ -5,11 +5,11 @@ Popular Bengali fonts By https://WpFairs.com via GitHub.
 
 => Using HTML
 ```html
-<link rel="stylesheet" href="https://wpfairs/solaimanlipi/style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/wpfairs/SolaimanLipi/master/style.css">
 ```
 => Using CSS
 ```css
-@import url('https://wpfairs/solaimanlipi/style.css');
+@import url('https://raw.githubusercontent.com/wpfairs/SolaimanLipi/master/style.css');
 ```
 => Uses Example
 ```css
