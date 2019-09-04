@@ -1,7 +1,8 @@
 => Bengali Webfont
 Popular Bengali fonts By https://WpFairs.com via GitHub.
 
-***************** SolaimanLipi ******************
+***************************** SolaimanLipi *********************************
+
 => Using HTML
 ```html
 <link rel="stylesheet" href="https://wpfairs/solaimanlipi/style.css">
